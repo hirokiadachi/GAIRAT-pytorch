@@ -1,6 +1,6 @@
 # GAIRAT-pytorch
 This repo. is the implementation of "GEOMETRY-AWARE INSTANCE-REWEIGHTED ADVERSARIAL TRAINING" proposed by J. Zhang et al. on ICLR 2021.<br>
-paper link: https://arxiv.org/abs/2010.01736
+paper link: https://arxiv.org/abs/2010.01736<br>
 official code: https://github.com/zjfheart/Geometry-aware-Instance-reweighted-Adversarial-Training
 
 
