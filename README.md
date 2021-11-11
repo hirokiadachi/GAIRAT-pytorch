@@ -5,6 +5,7 @@ paper link: https://arxiv.org/abs/2010.01736
 
 ## Implementation results
 * CIFAR-10
+
 ||Clean|PGD20 (non-restart)|PGD20 (5restart)|
 |:---:|:---:|:---:|:---:|
 |Best|83.69|54.98|55.00|
